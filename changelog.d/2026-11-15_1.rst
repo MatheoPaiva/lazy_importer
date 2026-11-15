@@ -1,0 +1,7 @@
+Misc
+----
+
+- Add package project URLs and make the README's changelog and contribution links usable on PyPI
+  (fixes `#7 <https://github.com/pganssle/lazy_importer/issues/7>`__).
+
+.. PR link will be added after creation.
